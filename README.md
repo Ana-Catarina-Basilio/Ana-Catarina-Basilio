@@ -8,7 +8,7 @@ I'm a Prehistorian archaeologist embarking on a new quest to decipher the enigma
 <p align="center">
   <a href="mailto:catarinasbasilio@gmail.com?subject=Olá, Catarina!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://twitter.com/catarinabasilio" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="www.linkedin.com/in/ana-catarina-basílio-a48a25272" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ac-basilio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <h3 align='center'><i>Unearthing ancient relics and coding the future using: </i></h3>
 
