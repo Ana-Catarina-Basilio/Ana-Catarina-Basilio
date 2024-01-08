@@ -10,7 +10,7 @@ I'm a Prehistorian archaeologist embarking on a new quest to decipher the enigma
   <a href="https://twitter.com/catarinabasilio" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="www.linkedin.com/in/ana-catarina-basílio-a48a25272" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-<h3 align='center'><i>Unearthing ancient relics and coding the future using ⛏️💻</i></h3>
+<h3 align='center'><i>Unearthing ancient relics and coding the future using: </i></h3>
 
 <p align="center"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
