@@ -3,7 +3,7 @@
 <p align='center'>
 I'm a Prehistorian archaeologist combining ancient dust and digital gold!
 </p>
-<p align='center'>Let's collaborate! Send me a carrier pigeon or reach out ⬇️ Because why not? From digging up the past to coding the future ⛏️💻 </p>
+<p align='center'>Send me a carrier pigeon or reach out ⬇️ Because why not? Let's collaborate and make history (and maybe a meme or two) ⛏️💻 </p>
 
 <p align="center">
   <a href="mailto:catarinasbasilio@gmail.com?subject=Olá, Catarina!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
