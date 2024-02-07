@@ -1,9 +1,9 @@
 
 <h1 align='center'> Hello, World :wave: Catarina speaking! </h1>
 <p align='center'>
-I'm a Prehistorian archaeologist embarking on a new quest to decipher the enigma of Full Stack development and Data analysis.
+I'm a Prehistorian archaeologist combining ancient dust and digital gold!
 </p>
-<p align='center'>Let's collaborate and write a new history chapter together — send me a carrier pigeon or reach out at ⬇️ </p>
+<p align='center'>Let's collaborate! Send me a carrier pigeon or reach out ⬇️ Because why not? From digging up the past to coding the future – let's make history (and maybe a meme or two) ⛏️💻 </p>
 
 <p align="center">
   <a href="mailto:catarinasbasilio@gmail.com?subject=Olá, Catarina!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
